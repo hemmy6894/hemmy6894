@@ -39,7 +39,23 @@
     <td align="center">
       <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
     </td>
-    
+  </tr>
+</table>
+
+### Front-end development
+
+<table>
+  <tr>
+    <th align="center">Flutter </th>
+    <th align="center">Ionic</th>
+  </tr>
+  <tr>
+    <td allign="center">
+      <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" height="60">
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/436px-Ionic-logo-landscape.svg.png" height="60" />
+    </td>
   </tr>
 </table>
 
