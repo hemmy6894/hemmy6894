@@ -107,13 +107,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-- **[Panabamba](https://github.com/hemmy6894/panabamba_flutter)** - Flutter mobile application
-- **[Panabamba Version 2](https://github.com/hemmy6894/panabamba_version_two)** - Enhanced version with improved features
-
----
-
 ## 📈 Recent Activity
 
 Always learning and building new things! Check out my repositories for more projects.
