@@ -8,10 +8,6 @@
 <p align="center"> 💼 Working at <a href="https://mojabora.com">Mojabora Inc</a> </p> 
 <p align="center"> ⚡ Fun fact: I'm Tanzanian 🇹🇿 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&theme=radical&langs_count=6&layout=compact" alt="Hemmy Top Languages">
-</p>
-
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=hemmy6894&label=Profile%20views&color=0e75b6&style=flat" alt="hemmy6894" /></h2>
 
 <p align="center">
@@ -106,12 +102,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemmy6894&bg_color=1F222E&color=F8D866&line=F85D7F&point=F58F56&area=true&hide_border=true" alt="Hemmy Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemmy6894&count_private=true&show_icons=true&theme=radical" alt="Hemmy GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&layout=compact&theme=radical" alt="Hemmy Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemmy6894&bg_color=1F222E&color=F8D866&line=F85D7F&point=F58F56&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
