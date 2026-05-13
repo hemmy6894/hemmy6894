@@ -40,13 +40,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="60" alt="Laravel">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40" alt="Laravel">
     </td>
     <td align="center">
-      <img src="https://www.php.net/images/logos/new-php-logo.svg" height="60" alt="PHP">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" alt="PHP">
     </td>
     <td align="center">
-      <img src="https://nodejs.org/static/images/logo.svg" height="60" alt="Node.js">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" alt="Node.js">
     </td>
   </tr>
 </table>
@@ -61,34 +61,36 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" height="60" alt="Flutter">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="Flutter">
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/436px-Ionic-logo-landscape.svg.png" height="60" alt="Ionic">
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="40" alt="Ionic">
     </td>
     <td align="center">
-      <img src="https://reactjs.org/logo-og.png" height="60" alt="React">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" alt="React">
     </td>
   </tr>
 </table>
 
 ---
 
-## 👩‍💻 Skills
+## 👨‍💻 Skills
 
 <p align="center">
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/></a>
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="java"/></a>
-  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="vscode"/></a>
-  <a href="https://developer.android.com/studio/"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="androidstudio"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/></a>
-  <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="bitbucket"/></a>
-  <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="gitlab"/></a>
-  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
-  <a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="windows"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="docker"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="androidstudio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="gitlab"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="windows"/>
 </p>
 
 ---
@@ -108,16 +110,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemmy6894&count_private=true&show_icons=true&theme=radical" alt="Hemmy GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&layout=compact&theme=radical" alt="Hemmy Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemmy6894&count_private=true&show_icons=true&theme=radical" alt="Hemmy GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&layout=compact&theme=radical" alt="Hemmy Top Languages" width="48%"/>
 </p>
 
 ---
 
 ## 🎯 Featured Projects
 
-- **Panabamba** - Flutter mobile application
-- **Panabamba Version 2** - Enhanced version with improved features
+- **[Panabamba](https://github.com/hemmy6894/panabamba_flutter)** - Flutter mobile application
+- **[Panabamba Version 2](https://github.com/hemmy6894/panabamba_version_two)** - Enhanced version with improved features
+
+---
+
+## 📈 Recent Activity
+
+Always learning and building new things! Check out my repositories for more projects.
 
 ---
 
