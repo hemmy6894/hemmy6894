@@ -1,22 +1,22 @@
-<h1 align="center">
-Hi, I'm Hemedi Mshamu Manyinja 👋
-</h1>
+# Hi there 👋 I'm Hemedi Mshamu Manyinja
 
 <h3 align="center">
-Senior Software Engineer | Solution Architect | Laravel • Flutter • Cloud
+Senior Software Engineer • Solution Architect • Laravel • Flutter • Cloud Technologies
 </h3>
 
 <p align="center">
-Building scalable enterprise software, mobile applications, and digital platforms that solve real-world business problems.
+Building scalable enterprise software, mobile applications, APIs, and digital platforms that solve real-world business challenges.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemedi-manyinja-b23093193/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:hmanyinja@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-hmanyinja@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://stackoverflow.com/users/8344999/hemedi-manyinja">
     <img src="https://img.shields.io/badge/Stack_Overflow-Developer-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
@@ -24,59 +24,94 @@ Building scalable enterprise software, mobile applications, and digital platform
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I am a Tanzanian Software Engineer passionate about designing enterprise systems, cloud applications, APIs, and mobile solutions.
+I'm a Tanzanian Software Engineer passionate about building scalable software for businesses, governments, startups, and organizations.
 
-My work focuses on:
+I specialize in designing enterprise-grade architectures, developing cross-platform mobile applications, creating secure APIs, and delivering cloud-ready systems.
+
+### Current Focus
 
 - Enterprise Software Architecture
-- Laravel & PHP Development
-- Flutter Mobile Development
-- REST APIs & Microservices
-- Payment Integrations
-- Cloud Infrastructure
-- System Design
-- Business Automation
+- Laravel Development
+- Flutter Development
+- REST APIs
+- Microservices
 - DevOps & CI/CD
+- Cloud Infrastructure
+- Mobile Applications
+- FinTech Solutions
+- Business Automation
 
 > **Mission**
 >
-> Build software that transforms complex business challenges into scalable digital solutions.
+> Transform complex business ideas into reliable, scalable, and impactful software.
 
 ---
 
-# Professional Experience
+# 💼 Professional Experience
 
-## BENO GROUP
+## 🏢 BENO GROUP
 
-Developing and maintaining digital platforms across multiple business sectors.
+Designing and developing enterprise platforms across multiple industries.
 
 ### Products
 
-| Platform | Website |
-|----------|----------|
+| Product | Website |
+|----------|---------|
 | Corporate Website | https://benotz.co.tz |
-| Church Platform | https://church.benotz.com |
-| Luxury Services | https://luxury.benotz.com |
+| Church Management Platform | https://church.benotz.com |
+| Luxury Platform | https://luxury.benotz.com |
 
 ---
 
-## Mojabora Inc
+## 🚀 Mojabora Inc
 
-Modern technology solutions and enterprise software.
+Developing enterprise software, web applications, and mobile experiences.
 
-🌐 https://mojabora.com
+### Website
 
-Working on scalable web platforms, APIs and digital transformation projects.
+https://mojabora.com
+
+### Mobile Applications
+
+| Application | Platform |
+|-------------|----------|
+| Block Puzzle Give Away | https://play.google.com/store/apps/details?id=com.mojabora.block_puzzle_give_away |
 
 ---
 
-## Quantum Infinity (QI)
+## 💙 Bluetick Technology
 
-Technology company delivering media and digital platforms.
+Building FinTech, AgriTech, Tourism, Business, and Enterprise Software.
 
-Projects include:
+### Websites
+
+- https://agritour.co.tz
+- https://ninafuu.co.tz
+
+### Products
+
+| Application | Android | iOS |
+|-------------|---------|------|
+| Agritour | https://play.google.com/store/apps/details?id=com.agritour.bluetick | https://apps.apple.com/tz/app/agritour/id6740632295 |
+| Ninafuu | — | https://apps.apple.com/tz/app/ninafuu/id6736953624 |
+| Fansika | https://play.google.com/store/apps/details?id=com.fans.choice.bluetick.app | https://apps.apple.com/tz/app/fansika-app/id6740992779 |
+
+### Client Projects
+
+| Client | Android | iOS |
+|---------|----------|------|
+| Karen Credit | https://play.google.com/store/apps/details?id=com.karen.credit | https://apps.apple.com/tz/app/karen-credit/id6752374417 |
+| TCCIA Tanga | https://play.google.com/store/apps/details?id=com.bluetick.tccia_tanga | — |
+
+---
+
+## 🌐 Quantum Infinity (QI)
+
+Technology company delivering digital media and enterprise platforms.
+
+### Products
 
 - https://matangazo.co.tz
 - https://tv3.co.tz
@@ -85,128 +120,144 @@ Projects include:
 
 ---
 
-## Bluetick Technology
+## 📢 Promotray
 
-Building fintech and agritech solutions.
+Marketing & Promotion Solutions
 
-Products include
+### Mobile Application
 
-- https://agritour.co.tz
-- https://ninafuu.co.tz
+| Application | Platform |
+|-------------|----------|
+| Panabamba | https://play.google.com/store/apps/details?id=tz.panabamba.com |
 
 ---
 
-# Technical Expertise
+# 🚀 Project Highlights
+
+- Enterprise Resource Planning (ERP)
+- Loan Management Systems
+- Church Management Systems
+- Tourism Platforms
+- FinTech Applications
+- Mobile Wallet Integrations
+- Payment Gateway Integrations
+- Business Automation Systems
+- Gaming Applications
+- Media Platforms
+- REST APIs
+- Microservices
+- Cross-platform Mobile Applications
+- Cloud Deployments
+
+---
+
+# 🛠 Tech Stack
 
 ## Backend
 
-- Laravel
-- PHP
-- Node.js
-- REST APIs
-- GraphQL
-- Microservices
-- Queue Systems
-- WebSockets
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs"/>
+
+</p>
 
 ---
 
 ## Mobile
 
-- Flutter
-- Android
-- iOS
-- Firebase
-- Push Notifications
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+
+</p>
 
 ---
 
 ## Frontend
 
-- React
-- Vue
-- Ionic
-- HTML5
-- CSS3
-- Bootstrap
-- TailwindCSS
-- JavaScript
-- TypeScript
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,bootstrap,tailwind,js,ts"/>
+
+</p>
 
 ---
 
 ## Databases
 
-- MySQL
-- PostgreSQL
-- SQLite
-- MariaDB
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
+
+</p>
 
 ---
 
-## Cloud & DevOps
+## DevOps & Cloud
 
-- Docker
-- GitHub Actions
-- Linux
-- Nginx
-- Apache
-- CI/CD
-- AWS
-- DigitalOcean
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,gitlab"/>
+
+</p>
 
 ---
 
 ## Tools
 
-- Git
-- GitHub
-- GitLab
-- Android Studio
-- VS Code
-- Postman
-- Figma
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman"/>
+
+</p>
 
 ---
 
-# Languages
+# 🧠 Technical Expertise
 
+- Laravel
+- Flutter
 - PHP
 - Dart
 - JavaScript
 - TypeScript
 - Python
 - Java
-- SQL
+- REST APIs
+- GraphQL
+- Firebase
+- MySQL
+- PostgreSQL
+- Docker
+- Linux
+- Git
+- GitHub
+- GitLab
+- CI/CD
+- AWS
+- DigitalOcean
+- Nginx
+- Apache
 
 ---
 
-# Architecture Interests
+# 🏗 Architecture Interests
 
-I enjoy designing
+I enjoy designing software using:
 
-- Enterprise Architectures
 - Clean Architecture
 - Domain Driven Design (DDD)
 - Repository Pattern
-- Service Layer
-- Event Driven Systems
-- Scalable APIs
-- Mobile-first Systems
+- Service Layer Pattern
+- Event-Driven Architecture
+- SOLID Principles
+- Scalable REST APIs
+- Mobile-first Design
+- Enterprise Architecture
 
 ---
 
-# Featured Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,react,nodejs,ts,js,python,mysql,postgres,docker,linux,git,github,firebase,vscode,androidstudio"/>
-
-</p>
-
----
-
-# GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -218,7 +269,7 @@ I enjoy designing
 
 ---
 
-# GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -228,7 +279,7 @@ I enjoy designing
 
 ---
 
-# Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -238,35 +289,34 @@ I enjoy designing
 
 ---
 
-# Current Focus
+# 🌱 Currently Exploring
 
-- Enterprise Laravel Architecture
-- Flutter Clean Architecture
-- Scalable Mobile Applications
+- AI Assisted Development
+- Enterprise Flutter Architecture
+- Laravel 12
 - Cloud Native Applications
-- AI-assisted Software Development
-- System Performance Optimization
-- Financial Technology Platforms
+- Distributed Systems
+- Performance Optimization
+- DevOps Automation
+- Event Driven Systems
 
 ---
 
-# Philosophy
-
-> "Technology should simplify businesses, empower people, and create lasting impact."
-
----
-
-# Let's Connect
-
-I'm always interested in collaborating on:
+# 🤝 Open to Collaborate On
 
 - Enterprise Applications
-- FinTech
-- Mobile Applications
-- SaaS Platforms
-- Open Source Projects
-- System Architecture
+- FinTech Platforms
+- SaaS Products
+- Flutter Applications
+- Laravel Projects
+- Open Source
 - API Development
+- Cloud Infrastructure
+- Digital Transformation Projects
+
+---
+
+# 📫 Reach Me
 
 📧 **Email**
 
@@ -282,10 +332,16 @@ https://stackoverflow.com/users/8344999/hemedi-manyinja
 
 ---
 
+# 💡 Philosophy
+
+> **"Technology should simplify businesses, empower people, and create lasting impact."**
+
+---
+
 <p align="center">
 
-### Building Technology That Creates Impact.
+### 🚀 Building Scalable Software That Creates Real Impact
 
-⭐ If you like my work, consider following my repositories.
+⭐ If you like my work, feel free to explore my repositories and connect with me.
 
 </p>
