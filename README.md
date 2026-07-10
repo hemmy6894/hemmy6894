@@ -109,14 +109,20 @@ Building FinTech, AgriTech, Tourism, Business, and Enterprise Software.
 
 ## 🌐 Quantum Infinity (QI)
 
-Technology company delivering digital media and enterprise platforms.
+Technology company delivering digital media, classified marketplaces, and enterprise platforms.
 
-### Products
+### 🌍 Platforms
 
 - https://matangazo.co.tz
 - https://tv3.co.tz
 - https://stbongo.co.tz
 - https://dahaboluxury.com
+
+### 📱 Mobile Applications
+
+| Application | Android | iOS |
+|-------------|---------|------|
+| Matangazo | https://play.google.com/store/apps/details?id=com.quantum.matangazo | https://apps.apple.com/tz/app/matangazo/id1640495286 |
 
 ---
 
@@ -260,11 +266,9 @@ I enjoy designing software using:
 # 📈 GitHub Statistics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hemmy6894&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemmy6894&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
