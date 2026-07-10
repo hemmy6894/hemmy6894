@@ -263,12 +263,29 @@ I enjoy designing software using:
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hemmy6894&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemmy6894&theme=github_dark"
+    alt="Repositories per language"
+  />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&layout=compact&theme=github_dark&hide_border=true"/>
+<img
+ width="49%"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemmy6894&theme=github_dark"
+ alt="Most committed languages"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemmy6894&theme=github_dark"
+    alt="GitHub contribution details"
+  />
 </p>
 
 ---
