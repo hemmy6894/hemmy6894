@@ -1,122 +1,291 @@
 <h1 align="center">
-  Welcome to Hemedi Mshamu Manyinja's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hi, I'm Hemedi Mshamu Manyinja 👋
 </h1>
 
-<h3 align="center">Change Impossible to Possible</h3>
+<h3 align="center">
+Senior Software Engineer | Solution Architect | Laravel • Flutter • Cloud
+</h3>
 
-<p align="center"> 💼 Working at <a href="https://mojabora.com">Mojabora Inc</a> </p> 
-<p align="center"> ⚡ Fun fact: I'm Tanzanian 🇹🇿 </p>
-
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=hemmy6894&label=Profile%20views&color=0e75b6&style=flat" alt="hemmy6894" /></h2>
+<p align="center">
+Building scalable enterprise software, mobile applications, and digital platforms that solve real-world business problems.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemedi-manyinja-b23093193/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hmanyinja@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/8344999/hemedi-manyinja">
-    <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-Developer-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### Back-end Development
+I am a Tanzanian Software Engineer passionate about designing enterprise systems, cloud applications, APIs, and mobile solutions.
 
-<table>
-  <tr>
-    <th align="center">Laravel</th>
-    <th align="center">PHP</th>
-    <th align="center">Node.js</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40" alt="Laravel">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" alt="PHP">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40" alt="Node.js">
-    </td>
-  </tr>
-</table>
+My work focuses on:
 
-### Front-end Development
+- Enterprise Software Architecture
+- Laravel & PHP Development
+- Flutter Mobile Development
+- REST APIs & Microservices
+- Payment Integrations
+- Cloud Infrastructure
+- System Design
+- Business Automation
+- DevOps & CI/CD
 
-<table>
-  <tr>
-    <th align="center">Flutter</th>
-    <th align="center">Ionic</th>
-    <th align="center">React</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" alt="Flutter">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="40" alt="Ionic">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" alt="React">
-    </td>
-  </tr>
-</table>
+> **Mission**
+>
+> Build software that transforms complex business challenges into scalable digital solutions.
 
 ---
 
-## 👨‍💻 Skills
+# Professional Experience
+
+## BENO GROUP
+
+Developing and maintaining digital platforms across multiple business sectors.
+
+### Products
+
+| Platform | Website |
+|----------|----------|
+| Corporate Website | https://benotz.co.tz |
+| Church Platform | https://church.benotz.com |
+| Luxury Services | https://luxury.benotz.com |
+
+---
+
+## Mojabora Inc
+
+Modern technology solutions and enterprise software.
+
+🌐 https://mojabora.com
+
+Working on scalable web platforms, APIs and digital transformation projects.
+
+---
+
+## Quantum Infinity (QI)
+
+Technology company delivering media and digital platforms.
+
+Projects include:
+
+- https://matangazo.co.tz
+- https://tv3.co.tz
+- https://stbongo.co.tz
+- https://dahaboluxury.com
+
+---
+
+## Bluetick Technology
+
+Building fintech and agritech solutions.
+
+Products include
+
+- https://agritour.co.tz
+- https://ninafuu.co.tz
+
+---
+
+# Technical Expertise
+
+## Backend
+
+- Laravel
+- PHP
+- Node.js
+- REST APIs
+- GraphQL
+- Microservices
+- Queue Systems
+- WebSockets
+
+---
+
+## Mobile
+
+- Flutter
+- Android
+- iOS
+- Firebase
+- Push Notifications
+
+---
+
+## Frontend
+
+- React
+- Vue
+- Ionic
+- HTML5
+- CSS3
+- Bootstrap
+- TailwindCSS
+- JavaScript
+- TypeScript
+
+---
+
+## Databases
+
+- MySQL
+- PostgreSQL
+- SQLite
+- MariaDB
+
+---
+
+## Cloud & DevOps
+
+- Docker
+- GitHub Actions
+- Linux
+- Nginx
+- Apache
+- CI/CD
+- AWS
+- DigitalOcean
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- GitLab
+- Android Studio
+- VS Code
+- Postman
+- Figma
+
+---
+
+# Languages
+
+- PHP
+- Dart
+- JavaScript
+- TypeScript
+- Python
+- Java
+- SQL
+
+---
+
+# Architecture Interests
+
+I enjoy designing
+
+- Enterprise Architectures
+- Clean Architecture
+- Domain Driven Design (DDD)
+- Repository Pattern
+- Service Layer
+- Event Driven Systems
+- Scalable APIs
+- Mobile-first Systems
+
+---
+
+# Featured Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="vscode"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="androidstudio"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="gitlab"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="windows"/>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,react,nodejs,ts,js,python,mysql,postgres,docker,linux,git,github,firebase,vscode,androidstudio"/>
+
 </p>
 
 ---
 
-## 🔥 Streak Stats
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemmy6894&theme=dracula" alt="hemmy6894 streak" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hemmy6894&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemmy6894&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemmy6894&bg_color=1F222E&color=F8D866&line=F85D7F&point=F58F56&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemmy6894&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Recent Activity
+# Contribution Graph
 
-Always learning and building new things! Check out my repositories for more projects.
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemmy6894&theme=github-compact"/>
+
+</p>
+
+---
+
+# Current Focus
+
+- Enterprise Laravel Architecture
+- Flutter Clean Architecture
+- Scalable Mobile Applications
+- Cloud Native Applications
+- AI-assisted Software Development
+- System Performance Optimization
+- Financial Technology Platforms
+
+---
+
+# Philosophy
+
+> "Technology should simplify businesses, empower people, and create lasting impact."
+
+---
+
+# Let's Connect
+
+I'm always interested in collaborating on:
+
+- Enterprise Applications
+- FinTech
+- Mobile Applications
+- SaaS Platforms
+- Open Source Projects
+- System Architecture
+- API Development
+
+📧 **Email**
+
+hmanyinja@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/hemedi-manyinja-b23093193/
+
+💻 **Stack Overflow**
+
+https://stackoverflow.com/users/8344999/hemedi-manyinja
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjwuFUaPoxPxZone/giphy.gif" width="100"> 
-</p>
 
-<p align="center">
-  <em>Let's collaborate and create amazing things together! 🚀</em>
+### Building Technology That Creates Impact.
+
+⭐ If you like my work, consider following my repositories.
+
 </p>
