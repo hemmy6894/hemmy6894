@@ -263,30 +263,23 @@ I enjoy designing software using:
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemmy6894&theme=github_dark"
-    alt="Repositories per language"
-  />
-
-<img
- width="49%"
- src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemmy6894&theme=github_dark"
- alt="Most committed languages"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    width="98%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemmy6894&theme=github_dark"
-    alt="GitHub contribution details"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemmy6894&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemmy6894&theme=github_dark" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemmy6894&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
